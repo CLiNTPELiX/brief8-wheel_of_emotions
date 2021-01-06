@@ -60,3 +60,5 @@ durée: 7 jours
 * https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html
 * https://medium.com/neuronio/from-sentiment-analysis-to-emotion-recognition-a-nlp-story-bcc9d6ff61ae
 * https://realpython.com/sentiment-analysis-python/#how-classification-works
+# brief9
+# brief9
